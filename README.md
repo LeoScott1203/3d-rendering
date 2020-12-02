@@ -1,5 +1,5 @@
 # 3d-rendering
 
-Rendering of 3d objects in Java.
+3D rendering in Java.
 
-Uses AWT and Swing to render.
+Uses AWT and Swing to render (2d things).
