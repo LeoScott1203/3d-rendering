@@ -1,3 +1,5 @@
 # 3d-rendering
 
-just for fun
+Rendering of 3d objects in Java.
+
+Uses AWT and Swing to render.
