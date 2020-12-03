@@ -125,7 +125,7 @@ public class Cube
         rotationXMatrix[1][1] = (float)Math.cos(xDeg);
         rotationXMatrix[1][2] = (float)Math.sin(xDeg);
         rotationXMatrix[2][0] = 0;
-        rotationXMatrix[2][1] = -1* (float)Math.sin(xDeg);
+        rotationXMatrix[2][1] = -1 * (float)Math.sin(xDeg);
         rotationXMatrix[2][2] = (float)Math.cos(xDeg);
 
         rotationYMatrix[0][0] = (float)Math.cos(yDeg);
